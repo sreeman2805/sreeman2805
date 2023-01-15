@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="600" alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" 
+<img width="600" alt="sreeman2805 GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" 
 
 </p>
 
